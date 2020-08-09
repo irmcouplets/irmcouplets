@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于我们 on 楹联</title>
-    <link>https://example.com/about/</link>
+    <link>https://irmcouplets.github.io/about/</link>
     <description>Recent content in 关于我们 on 楹联</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://irmcouplets.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
