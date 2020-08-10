@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>字词句章 on 楹联</title>
+    <link>https://irmcouplets.github.io/skilltype/</link>
+    <description>Recent content in 字词句章 on 楹联</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Mar 2011 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://irmcouplets.github.io/skilltype/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>组句技巧</title>
+      <link>https://irmcouplets.github.io/skilltype/%E7%BB%84%E5%8F%A5%E6%8A%80%E5%B7%A7/</link>
+      <pubDate>Mon, 10 Aug 2020 14:36:18 +0800</pubDate>
+      
+      <guid>https://irmcouplets.github.io/skilltype/%E7%BB%84%E5%8F%A5%E6%8A%80%E5%B7%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>遣词技巧</title>
+      <link>https://irmcouplets.github.io/skilltype/%E9%81%A3%E8%AF%8D%E6%8A%80%E5%B7%A7/</link>
+      <pubDate>Mon, 10 Aug 2020 14:36:18 +0800</pubDate>
+      
+      <guid>https://irmcouplets.github.io/skilltype/%E9%81%A3%E8%AF%8D%E6%8A%80%E5%B7%A7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
